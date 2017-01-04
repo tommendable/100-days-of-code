@@ -11,4 +11,4 @@
 
 **Link to work:** 
 * [Hello World Repo](https://github.com/tommendable/hello-world "Hello World Repo")
-* [TimesUp Logo - CSS](http://codepen.io/tomlittlechild/pen/ZLEOVW "TimesUp Logo")
+* [TimesUp Logo - CSS](http://codepen.io/tomlittlechild/full/ZLEOVW/ "TimesUp Logo")
