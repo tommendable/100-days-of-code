@@ -42,3 +42,14 @@
 * [Smallest Common Multiple Solution](https://www.freecodecamp.com/challenges/Smallest%20Common%20Multiple?solution=%2F%2F%20noprotect%0Afunction%20smallestCommons(arr)%20%7B%0A%20%20var%20lcm%20%3D%200%3B%0A%20%20var%20test%20%3D%201%3B%0A%20%20arr.sort()%3B%0A%20%20for%20(i%20%3D%20arr%5B0%5D%20%2B%201%3B%20i%20%3C%20arr%5B1%5D%3B%20i%2B%2B)%20%7B%0A%20%20%20%20arr.push(i)%3B%0A%20%20%7D%0A%20%20while(test%20!%3D%3D%200)%20%7B%0A%20%20%20%20lcm%2B%2B%3B%0A%20%20%20%20var%20arr2%20%3D%20arr.sort(function(a%2Cb)%20%7Breturn%20a-b%3B%7D)%3B%0A%20%20%20%20arr2%20%3D%20arr2.map(function(x)%7Breturn%20lcm%20%25%20x%3B%7D)%3B%0A%20%20%20%20test%20%3D%20arr2.reduce(function(a%2Cb)%20%7Breturn%20a%2Bb%3B%7D%2C0)%0A%20%20%7D%0A%20%20return%20lcm%3B%0A%7D%0A%0A%0AsmallestCommons(%5B1%2C13%5D)%3B%0A "Smallest Common Multiple Solution")
 * [Finders Keepers Solution](https://www.freecodecamp.com/challenges/Finders%20Keepers?solution=%0Afunction%20findElement(arr%2C%20func)%20%7B%0A%20%20arr%20%3D%20arr.filter(func)%3B%0A%20%20return%20arr%5B0%5D%3B%0A%7D%0A%0AfindElement(%5B1%2C%202%2C%203%2C%204%5D%2C%20function(num)%7B%20return%20num%20%25%202%20%3D%3D%3D%200%3B%20%7D)%3B%0A "Finders Keepers Solution")
 * [Drop it Solution](https://www.freecodecamp.com/challenges/Drop%20it?solution=%0Afunction%20dropElements(arr%2C%20func)%20%7B%0A%20%20var%20fltrarr%20%3D%20arr.filter(func)%3B%0A%20%20var%20i%20%3D%20arr.indexOf(fltrarr%5B0%5D)%3B%0A%20%20if%20(i%20%3C%200)%20%7B%0A%20%20%20%20return%20%5B%5D%3B%0A%20%20%7D%20else%20%7B%0A%20%20return%20arr.slice(i)%3B%0A%20%20%7D%0A%7D%0A%0AdropElements(%5B1%2C%202%2C%203%2C%204%5D%2C%20function(n)%20%7Breturn%20n%20%3E%205%3B%20%7D)%3B%0A "Drop it Solution")
+
+### Day 4: 7th January, 2017
+
+**Today's Progress**: 
+* 
+
+**Thoughts:** 
+* 
+
+**Link to work:** 
+* [Link](address "Link")
