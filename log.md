@@ -49,7 +49,7 @@
 * Today I worked on the javacript drum kit project from Wes Bos Javascript30 course. I followed along with the video to create the project but I had an issue with the sound not working. I then personalised the appearance for some cSS practice.
 
 **Thoughts:** 
-* Not sure why the sounds were not working. perhaps the file name?
+* Not sure why the sounds were not working. perhaps the file name? uploaded to codepen anyway (without sounds).
 
 **Link to work:** 
-* [Link](address "Link")
+* [JS Drumkit](http://codepen.io/tomlittlechild/full/rjVvVV/ "JS Drumkit")
