@@ -46,7 +46,7 @@
 ### Day 4: 7th January, 2017
 
 **Today's Progress**: 
-* Today I worked on the javacript drum kit project from Wes Bos Javascript30 course. I followed along with the video to creat the project but I had an issue with the sound not working. I then personalised the appearance for some cSS practice.
+* Today I worked on the javacript drum kit project from Wes Bos Javascript30 course. I followed along with the video to create the project but I had an issue with the sound not working. I then personalised the appearance for some cSS practice.
 
 **Thoughts:** 
 * Not sure why the sounds were not working. perhaps the file name?
