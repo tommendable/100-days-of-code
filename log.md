@@ -53,3 +53,16 @@
 
 **Link to work:** 
 * [JS Drumkit](http://codepen.io/tomlittlechild/full/rjVvVV/ "JS Drumkit")
+
+### Day 5: 8th January, 2017
+
+**Today's Progress**: 
+* Completed Intermediate Algorithm Script - Steamroller
+* Today I also fixed the sound on the javascript30 drum kit project
+
+**Thoughts:** 
+* I had real trouble with the Steamroller algorithm, I expect because I haven't done much involving recursion before. For the javascript drumkit I got the sound working locally but need to host it somewhere as I don't believe codepen has anywhere to store audio files. I'd also now like to edit the look of it some more so the drums light up rather than overlaid buttons.
+
+**Link to work:** 
+* [Steamroller solution](https://www.freecodecamp.com/challenges/steamroller#?solution=%0Afunction%20steamrollArray(arr)%20%7B%0A%20%20var%20flat%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20function%20flatten(arg)%20%7B%0A%20%20%20%20if%20(!Array.isArray(arg))%20%7B%0A%20%20%20%20%20%20flat.push(arg)%3B%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20for%20(var%20a%20in%20arg)%20%7B%0A%20%20%20%20%20%20%20%20flatten(arg%5Ba%5D)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20arr.forEach(flatten)%3B%0A%20%20return%20flat%3B%0A%7D%0A%0AsteamrollArray(%5B1%2C%20%5B2%5D%2C%20%5B3%2C%20%5B%5B4%5D%5D%5D%5D)%3B%0A "Steamroller solution")
+* [JS Drumkit](http://codepen.io/tomlittlechild/full/rjVvVV/ "JS Drumkit")
