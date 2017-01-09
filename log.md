@@ -67,7 +67,7 @@
 * [Steamroller solution](https://www.freecodecamp.com/challenges/steamroller#?solution=%0Afunction%20steamrollArray(arr)%20%7B%0A%20%20var%20flat%20%3D%20%5B%5D%3B%0A%20%20%0A%20%20function%20flatten(arg)%20%7B%0A%20%20%20%20if%20(!Array.isArray(arg))%20%7B%0A%20%20%20%20%20%20flat.push(arg)%3B%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20for%20(var%20a%20in%20arg)%20%7B%0A%20%20%20%20%20%20%20%20flatten(arg%5Ba%5D)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20%0A%20%20arr.forEach(flatten)%3B%0A%20%20return%20flat%3B%0A%7D%0A%0AsteamrollArray(%5B1%2C%20%5B2%5D%2C%20%5B3%2C%20%5B%5B4%5D%5D%5D%5D)%3B%0A "Steamroller solution")
 * [JS Drumkit](http://codepen.io/tomlittlechild/full/rjVvVV/ "JS Drumkit")
 
-### Day 5: 9th January, 2017
+### Day 6: 9th January, 2017
 
 **Today's Progress**: 
 * Completed Intermediate Algorithm Script - Binary Agents
