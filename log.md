@@ -85,7 +85,7 @@
 ### Day 7: 10th January, 2017
 
 **Today's Progress**: 
-* Completed  Algorithm Script - Validate US Telephone Numbers
+* Completed Advanced Algorithm Script - Validate US Telephone Numbers
 
 **Thoughts:** 
 * Comparing my solution to the US telephone number validation algorithm to the solution on github from freeCodeCamp really shows my lack of practice with regular expressions, my function took 23 lines, three if statements and multiple or conditionals to give desired output. The freeCodeCamp solution just defined a regular expression that encompassed all valid formats and then used the inbuilt .test method for regexp so just 2 lines. All the OR conditionals that I used just to make my solution work kind of amounts to solving case by case instead of having an overarching test to validate against. I should spend more time with regular expressions and read about them more in the documentation. 
