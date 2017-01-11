@@ -92,3 +92,14 @@
 
 **Link to work:** 
 * [Validate US Telephone Numbers Solution](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers#?solution=%0Afunction%20telephoneCheck(str)%20%7B%0A%20%20var%20num%20%3D%20str.replace(%2F%5CD%2Fg%2C'')%3B%0A%20%20function%20checkLength(num)%20%7B%0A%20%20%20%20if%20(num.length%20%3D%3D%2011%20%26%26%20num%5B0%5D%20%3D%3D%201)%20%7B%0A%20%20%20%20%20%20return%20true%3B%0A%20%20%20%20%7D%20else%20if%20(num.length%20%3D%3D%2010)%20%7B%0A%20%20%20%20%20%20return%20true%3B%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20var%20nonum%20%3D%20str.replace(%2F%5Cd%2Fg%2C'X').replace(%2F-%2Fg%2C'%20')%3B%0A%20%20function%20checknonum(nonum)%20%7B%0A%20%20%20%20if%20(nonum%20%3D%3D%20'XXX%20XXX%20XXXX'%20%7C%7C%20nonum%20%3D%3D%20'(XXX)XXX%20XXXX'%20%7C%7C%20nonum%20%3D%3D%20'(XXX)%20XXX%20XXXX'%20%7C%7C%20nonum%20%3D%3D%20'XXXXXXXXXX'%20%7C%7C%20nonum%20%3D%3D%20'X%20XXX%20XXX%20XXXX'%20%7C%7C%20nonum%20%3D%3D%20'X%20(XXX)%20XXX%20XXXX'%20%7C%7C%20nonum%20%3D%3D%20'X(XXX)XXX%20XXXX')%20%7B%0A%20%20%20%20%20%20return%20true%3B%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20if%20(checkLength(num)%20%26%26%20checknonum(nonum))%20%7B%0A%20%20%20%20return%20true%3B%0A%20%20%7D%20else%20%7B%0A%20%20%20%20return%20false%3B%0A%20%20%7D%0A%7D%0A%0A%0A%0AtelephoneCheck(%221%20(555)%20555-5555%22)%3B%0A "Validate US Telephone Numbers Solution")
+
+### Day 8: 11th January, 2017
+
+**Today's Progress**: 
+* Today I worked on the javacript clock project from Wes Bos Javascript30 course.
+
+**Thoughts:** 
+* The javascript clock was fairly straight forward to create. I can probably use some of the things I have learnt from this for the Pomodoro clock project in freecode camp. Or perhaps I will create a project that is a clock but has a start / pause / stop so I can time how much I spend on coding each day for the 100 days to make sure I do at least an hour every day. This could even have an IFTTT auto tweet function.
+
+**Link to work:** 
+* [JS Clock](http://codepen.io/tomlittlechild/pen/ggPyNK "JS Clock")
