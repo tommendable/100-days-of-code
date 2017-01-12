@@ -103,3 +103,14 @@
 
 **Link to work:** 
 * [JS Clock](http://codepen.io/tomlittlechild/pen/ggPyNK "JS Clock")
+
+### Day 9: 12th January, 2017
+
+**Today's Progress**:
+* Started on the show the local weather project from freeCodeCamp.
+
+**Thoughts:**
+* Spent a lot of time trying to get the navigator.getCurrentLocation method to work. Turned out to be due to http instead of https on codepen. Then spent even more time trying to just get the information from the open weather API. I can get the data to pull through now but I wan't it as a nested array or javascript object but all I can get is a text string. I think I need to look a bit more at the XMLHttpRequest function to get what I want to pull through.
+
+**Link to work:**
+* [Weather app](http://codepen.io/tomlittlechild/full/JEXLym/ "Weather App")
