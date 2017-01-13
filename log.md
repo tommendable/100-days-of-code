@@ -114,3 +114,14 @@
 
 **Link to work:**
 * [Weather app](http://codepen.io/tomlittlechild/full/JEXLym/ "Weather App")
+
+### Day 10: 13th January, 2017
+
+**Today's Progress**:
+* Today I learnt about CSS variables and how to change them with javascript by doing the third #javascript30 project
+
+**Thoughts:**
+* I also read some more of eloquent javascript today which really helped to cement some of the concepts of control flow
+
+**Link to work:**
+* [CSS variables and JS](http://codepen.io/tomlittlechild/pen/pRbeeV "CSS variables and JS")
