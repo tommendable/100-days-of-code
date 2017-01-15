@@ -125,3 +125,14 @@
 
 **Link to work:**
 * [CSS variables and JS](http://codepen.io/tomlittlechild/pen/pRbeeV "CSS variables and JS")
+
+### Day 11: 15th January, 2017
+
+**Today's Progress**:
+* Completed Advanced Algorithm Script - Symmetric Difference 
+
+**Thoughts:** 
+* I feel like i could have got more coding done this weekend but i have been sick so maybe its just as well that i gave myself a break yesterday.
+
+**Link to work:** 
+* [Symmetric Difference Solution](https://www.freecodecamp.com/challenges/Symmetric%20Difference?solution=%0Afunction%20sym(args)%20%7B%0A%20%20function%20symdiff(a%2Cb)%20%7B%0A%20%20var%20arr%20%3D%20%5B%5D%2C%20is%20%3D%20%5B%5D%2C%20js%20%3D%20%5B%5D%3B%0A%20%20for%20(i%20%3D%200%3B%20i%20%3C%20b.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20for%20(j%20%3D%200%3B%20j%20%3C%20a.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20%20%20if%20(b%5Bi%5D%20%3D%3D%3D%20a%5Bj%5D)%20%7B%0A%20%20%20%20%20%20%20%20is.push(i)%3B%0A%20%20%20%20%20%20%20%20js.push(j)%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20for%20(i%20%3D%200%3B%20i%20%3C%20b.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20if%20(is.indexOf(i)%20%3D%3D%3D%20-1%20%26%26%20arr.indexOf(b%5Bi%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20arr.push(b%5Bi%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20for%20(j%20%3D%200%3B%20j%20%3C%20a.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20if%20(js.indexOf(j)%20%3D%3D%3D%20-1%20%26%26%20arr.indexOf(a%5Bj%5D)%20%3D%3D%3D%20-1)%20%7B%0A%20%20%20%20%20%20arr.push(a%5Bj%5D)%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20return%20arr%3B%0A%20%20%7D%0A%20%20var%20arrs%20%3D%20%5B%5D%3B%0A%20%20for%20(i%20%3D%200%3B%20i%20%3C%20arguments.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20arrs.push(arguments%5Bi%5D)%3B%0A%20%20%7D%0A%20%20return%20arrs.reduce(symdiff)%3B%0A%7D%0A%0Asym(%5B1%2C%202%2C%203%5D%2C%20%5B5%2C%202%2C%201%2C%204%5D)%3B%0A "Symmetric Difference")
