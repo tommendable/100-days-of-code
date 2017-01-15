@@ -129,7 +129,7 @@
 ### Day 11: 15th January, 2017
 
 **Today's Progress**:
-* * Completed Advanced Algorithm Script - Symmetric Difference 
+* Completed Advanced Algorithm Script - Symmetric Difference 
 
 **Thoughts:** 
 * I feel like i could have got more coding done this weekend but i have been sick so maybe its just as well that i gave myself a break yesterday.
