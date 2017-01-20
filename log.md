@@ -191,7 +191,7 @@
 * Completed Advanced Algorithm Script - Pairwise
 
 **Thoughts:** 
-* 
+* 07:46 into Javascript30 Array Cardio.
 
 **Link to work:** 
 * [Pairwise Solution] (https://www.freecodecamp.com/challenges/pairwise#?solution=%0Afunction%20pairwise(arr%2C%20arg)%20%7B%0A%20%20var%20total%20%3D%200%3B%0A%20%20for(var%20i%20%3D%200%3B%20i%20%3C%20arr.length%3B%20i%2B%2B)%20%7B%0A%20%20%20%20if(arr%5Bi%5D%20%3D%3D%20%22%20%22)%20%7B%0A%20%20%20%20%20%20continue%3B%0A%20%20%20%20%7D%0A%20%20%20%20for(var%20j%20%3D%200%3B%20j%20%3C%20arr.length%3B%20j%2B%2B)%20%7B%0A%20%20%20%20%20%20if(i%20%3D%3D%20j%20%7C%7C%20arr%5Bj%5D%20%3D%3D%3D%20%22%20%22)%20%7B%0A%20%20%20%20%20%20%20%20continue%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20if(arr%5Bi%5D%20%2B%20arr%5Bj%5D%20%3D%3D%3D%20arg)%20%7B%0A%20%20%20%20%20%20%20%20total%2B%3D%20i%20%2B%20j%3B%0A%20%20%20%20%20%20%20%20arr%5Bi%5D%20%3D%20%22%20%22%3B%0A%20%20%20%20%20%20%20%20arr%5Bj%5D%20%3D%20%22%20%22%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20return%20total%3B%0A%7D%0A%0Apairwise(%5B1%2C%203%2C%202%2C%204%5D%2C%204)%3B%0A "Pairwise Solution")
