@@ -209,3 +209,15 @@
 
 **Link to work:** 
 * [flexbox gallery] (http://codepen.io/tomlittlechild/full/BpRKxL/ "flexbox gallery")
+
+### Day 18: 23rd January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 Type Ahead 
+
+**Thoughts:** 
+* I learnt quite a lot from today's javascript30 exercise. Of particular interest was the fetch function and interacting the the html DOM ti replace text and elements. This should help me with the weather app that I am still working on for freecode camp.
+* I'd like to spend some time on some of my other freecodecamp projects to make them look nicer, I feel that CSS is not a strong point for me at the moment and I would like to improve on that.
+
+**Link to work:** 
+* [Type Ahead] (http://codepen.io/tomlittlechild/full/MJmLoo/ "Type Ahead")
