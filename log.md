@@ -229,7 +229,7 @@
 * Completed Javascript30 canvas fun
 
 **Thoughts:** 
-* 
+* I'd like to look at phaser.io this upcoming long weekend and get started on developing some simple video games to run in the browser... However I do worry that My focus is not narrow enough and that I should stick with one thing.
 
 **Link to work:** 
 * [array cardio 2] (http://codepen.io/tomlittlechild/full/KaqoWQ/ "array cardio 2")
