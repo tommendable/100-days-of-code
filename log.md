@@ -221,3 +221,16 @@
 
 **Link to work:** 
 * [Type Ahead] (http://codepen.io/tomlittlechild/full/MJmLoo/ "Type Ahead")
+
+### Day 19: 24th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 array cardio 2
+* Completed Javascript30 canvas fun
+
+**Thoughts:** 
+* 
+
+**Link to work:** 
+* [array cardio 2] (http://codepen.io/tomlittlechild/full/KaqoWQ/ "array cardio 2")
+* [canvas fun] (http://codepen.io/tomlittlechild/full/apwYLr/ "canvas fun")
