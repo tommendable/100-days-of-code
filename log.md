@@ -234,3 +234,14 @@
 **Link to work:** 
 * [array cardio 2] (http://codepen.io/tomlittlechild/full/KaqoWQ/ "array cardio 2")
 * [canvas fun] (http://codepen.io/tomlittlechild/full/apwYLr/ "canvas fun")
+
+### Day 20: 25th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 multi check box project
+
+**Thoughts:** 
+* I went a little further with the multiple check box project by making it possible to uncheck multiple boxes. There are some unintended side effect though if the range you are trying to check has a mixture of checked / unchecked boxes... I am not sure how to fix this.
+
+**Link to work:** 
+* [multi check box] (http://codepen.io/tomlittlechild/full/BpdRpe/ "multi check box")
