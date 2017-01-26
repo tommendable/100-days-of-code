@@ -245,3 +245,14 @@
 
 **Link to work:** 
 * [multi check box] (http://codepen.io/tomlittlechild/full/BpdRpe/ "multi check box")
+
+### Day 21: 26th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 custom video player project
+
+**Thoughts:** 
+* As suggested by Wes, I went a little further with the video player project and got the fullscreen working too. I couldn't figure out how to make it work with the :fullscreen pseudo-class that Wes had in the CSS file so I just got it to work by applying properties to the existing player class.
+
+**Link to work:** 
+* [video player project] (http://codepen.io/tomlittlechild/full/GrMWQv/ "video player project")
