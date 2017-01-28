@@ -256,3 +256,14 @@
 
 **Link to work:** 
 * [video player project] (http://codepen.io/tomlittlechild/full/GrMWQv/ "video player project")
+
+### Day 22: 27th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 Konami Code exercise
+
+**Thoughts:** 
+* I should set up my phaser.io development environment so that I can get started on web broswer game development.
+
+**Link to work:** 
+* [Konami Code exercise] (http://codepen.io/tomlittlechild/full/GrMWQv/ "Konami Code exercise")
