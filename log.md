@@ -274,7 +274,7 @@
 * Completed Javascript30 Slide In On Scroll exercise
 
 **Thoughts:** 
-* I should set up my phaser.io development environment so that I can get started on web broswer game development.
+* I'd like to read more of my eloquent javascript book, I should start taking it on the train to work...
 
 **Link to work:** 
 * [Slide In On Scroll exercise] (http://codepen.io/tomlittlechild/full/BpmMOG/ "Slide In On Scroll exercise")
