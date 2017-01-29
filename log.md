@@ -268,7 +268,7 @@
 **Link to work:** 
 * [Konami Code exercise] (http://codepen.io/tomlittlechild/full/GrMWQv/ "Konami Code exercise")
 
-### Day 22: 28th January, 2017
+### Day 23: 28th January, 2017
 
 **Today's Progress**:
 * Completed Javascript30 Slide In On Scroll exercise
@@ -278,3 +278,15 @@
 
 **Link to work:** 
 * [Slide In On Scroll exercise] (http://codepen.io/tomlittlechild/full/BpmMOG/ "Slide In On Scroll exercise")
+
+### Day 23: 29th January, 2017
+
+**Today's Progress**:
+* Today I worked with the Phaser API and made my first simple browser based game.
+* I also did the chapter 2 exercises from Eloquent Javascript.
+
+**Thoughts:** 
+* I got phaser working just in the browser with locally run files (phaser.js) but couldn't get the local webserver working... I will have to take another look at that at a later date.
+
+**Link to work:** 
+* [eloquent javascript chapter 2 exercises] (http://codepen.io/tomlittlechild/full/egewPG/ "eloquent javascript chapter 2 exercises")
