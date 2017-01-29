@@ -279,7 +279,7 @@
 **Link to work:** 
 * [Slide In On Scroll exercise] (http://codepen.io/tomlittlechild/full/BpmMOG/ "Slide In On Scroll exercise")
 
-### Day 23: 29th January, 2017
+### Day 24: 29th January, 2017
 
 **Today's Progress**:
 * Today I worked with the Phaser API and made my first simple browser based game.
