@@ -267,3 +267,14 @@
 
 **Link to work:** 
 * [Konami Code exercise] (http://codepen.io/tomlittlechild/full/GrMWQv/ "Konami Code exercise")
+
+### Day 22: 28th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 Slide In On Scroll exercise
+
+**Thoughts:** 
+* I'd like to read more of my eloquent javascript book, I should start taking it on the train to work...
+
+**Link to work:** 
+* [Slide In On Scroll exercise] (http://codepen.io/tomlittlechild/full/BpmMOG/ "Slide In On Scroll exercise")
