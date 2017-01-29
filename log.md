@@ -267,3 +267,14 @@
 
 **Link to work:** 
 * [Konami Code exercise] (http://codepen.io/tomlittlechild/full/GrMWQv/ "Konami Code exercise")
+
+### Day 22: 28th January, 2017
+
+**Today's Progress**:
+* Completed Javascript30 Slide In On Scroll exercise
+
+**Thoughts:** 
+* I should set up my phaser.io development environment so that I can get started on web broswer game development.
+
+**Link to work:** 
+* [Slide In On Scroll exercise] (http://codepen.io/tomlittlechild/full/BpmMOG/ "Slide In On Scroll exercise")
