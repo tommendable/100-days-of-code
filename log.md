@@ -290,3 +290,15 @@
 
 **Link to work:** 
 * [eloquent javascript chapter 2 exercises] (http://codepen.io/tomlittlechild/full/egewPG/ "eloquent javascript chapter 2 exercises")
+
+### Day 25: 30th January, 2017
+
+**Today's Progress**:
+* Today I completed Javascript30 Reference vs. Copy exercise
+* Made progress on the weather app for freecodecamp
+
+**Thoughts:** 
+* I now have the openweather.org api data pulling through into a JavaScript Object correctly and can access the seperate pieces of information for addition to the html page. I still need to get it working for the user's location (i.e. get latitude and longitude from the browser). I have the temperature being stored in a celcius or fahrenheit variable and just need to add a button to switch display between the both of them. I also still need to change the html background depending on what the weather actually is.
+
+**Link to work:** 
+* [weather app freecodecamp] (http://codepen.io/tomlittlechild/full/JEXLym/ "weather app freecodecamp")
