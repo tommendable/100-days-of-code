@@ -302,3 +302,15 @@
 
 **Link to work:** 
 * [weather app freecodecamp] (http://codepen.io/tomlittlechild/full/JEXLym/ "weather app freecodecamp")
+
+### Day 26: 31st January, 2017
+
+**Today's Progress**:
+* Today I did most of the Javascript30 local storage and event delegation exercise, just need to implement the stretch targets that Wes asked for at the end of the video
+* Made progress on my Phaser.io game. 
+
+**Thoughts:** 
+* The mechanics of the Phaser.io game are all mostly there, now I just need to make it look nice with animations and maybe add sound. 
+
+**Link to work:** 
+* [Javascript30 local storage and event delegation exercise] (http://codepen.io/tomlittlechild/full/JEMgrx/ "Javascript30 local storage and event delegation exercise")
