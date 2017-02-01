@@ -314,3 +314,14 @@
 
 **Link to work:** 
 * [Javascript30 local storage and event delegation exercise] (http://codepen.io/tomlittlechild/full/JEMgrx/ "Javascript30 local storage and event delegation exercise")
+
+### Day 27: 1st February, 2017
+
+**Today's Progress**:
+* Today I finished off the Javascript30 local storage and event delegation exercise by implementing the stretch targets (clear all, check all and uncheck all buttons)
+
+**Thoughts:** 
+* 
+
+**Link to work:** 
+* [Javascript30 local storage and event delegation exercise] (http://codepen.io/tomlittlechild/full/JEMgrx/ "Javascript30 local storage and event delegation exercise")
