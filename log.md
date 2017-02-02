@@ -326,3 +326,17 @@
 
 **Link to work:** 
 * [Javascript30 local storage and event delegation exercise] (http://codepen.io/tomlittlechild/full/JEMgrx/ "Javascript30 local storage and event delegation exercise")
+
+### Day 28: 2nd February, 2017
+
+**Today's Progress**:
+* Today I finished off the functional aspects of the freecodecamp weather app just need to prettyify it with CSS and make background change based on weather outside.
+* I also finished the javascript30 mouse move text shadow effect.
+
+**Thoughts:** 
+* I got the weather app to run off browser location for all browsers except chrome whereby it runs off ipaddress location (this was because chrome wouldn't allow location from geolocation api over http, it had to be https and then the weather data was from http so I couldn't have mixed mode requests going on). This means the chrome one will show incorrect weather if your ip is routed through a different area or you are using a VPN. For example my PC at work always comes up as if the IP address is in Sydney when the computer is in Perth.
+
+**Link to work:** 
+* [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj "freecodecamp weather app")
+* [javascript30 mouse move text shadow effect] (http://codepen.io/tomlittlechild/full/bgvOOp "javascript30 mouse move text shadow effect")
+
