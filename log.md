@@ -340,3 +340,13 @@
 * [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj "freecodecamp weather app")
 * [javascript30 mouse move text shadow effect] (http://codepen.io/tomlittlechild/full/bgvOOp "javascript30 mouse move text shadow effect")
 
+### Day 29: 3rd February, 2017
+
+**Today's Progress**:
+* T
+
+**Thoughts:** 
+* I 
+
+**Link to work:** 
+* [xxx] (http://xxx "xxx")
