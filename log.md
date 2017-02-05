@@ -350,3 +350,15 @@
 
 **Link to work:** 
 * [Javascript30 sorting bands without articles exercise] (http://codepen.io/tomlittlechild/full/Ndzazp/ "Javascript30 sorting bands without articles exercise")
+
+### Day 30: 5th February, 2017
+
+**Today's Progress**:
+* Today I did the Javascript30 Tally String Times with Reduce exercise
+
+**Thoughts:** 
+* The busy weekend meant I didn't have much time to code...
+
+**Link to work:** 
+* [Javascript30 Tally String Times with Reduces exercise] (http://codepen.io/tomlittlechild/full/WRyZaO/ "Javascript30 Tally String Times with Reduce exercise")
+
