@@ -343,10 +343,10 @@
 ### Day 29: 3rd February, 2017
 
 **Today's Progress**:
-* T
+* Today I did the Javascript30 sorting bands without articles exercise
 
 **Thoughts:** 
-* I 
+* I have quite a busy weekend coming up, hopefully I have time to code!
 
 **Link to work:** 
-* [xxx] (http://xxx "xxx")
+* [Javascript30 sorting bands without articles exercise] (http://codepen.io/tomlittlechild/full/Ndzazp/ "Javascript30 sorting bands without articles exercise")
