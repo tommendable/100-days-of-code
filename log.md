@@ -340,3 +340,13 @@
 * [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj "freecodecamp weather app")
 * [javascript30 mouse move text shadow effect] (http://codepen.io/tomlittlechild/full/bgvOOp "javascript30 mouse move text shadow effect")
 
+### Day 29: 3rd February, 2017
+
+**Today's Progress**:
+* Today I did the Javascript30 sorting bands without articles exercise
+
+**Thoughts:** 
+* I have quite a busy weekend coming up, hopefully I have time to code!
+
+**Link to work:** 
+* [Javascript30 sorting bands without articles exercise] (http://codepen.io/tomlittlechild/full/Ndzazp/ "Javascript30 sorting bands without articles exercise")
