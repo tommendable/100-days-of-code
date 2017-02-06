@@ -362,3 +362,13 @@
 **Link to work:** 
 * [Javascript30 Tally String Times with Reduces exercise] (http://codepen.io/tomlittlechild/full/WRyZaO/ "Javascript30 Tally String Times with Reduce exercise")
 
+### Day 31: 6th February, 2017
+
+**Today's Progress**:
+* Today I worked more on my freeCodeCamp weather app
+
+**Thoughts:** 
+* I got an icon to change in line with the current weather (i.e. rain, clouds, snow etc.). Now all that is left is to make the weather app look nice, all user stories are implemented.
+
+**Link to work:** 
+* [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj "freecodecamp weather app")
