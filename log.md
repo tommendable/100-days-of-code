@@ -372,3 +372,14 @@
 
 **Link to work:** 
 * [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj "freecodecamp weather app")
+
+### Day 32: 7th February, 2017
+
+**Today's Progress**:
+* Today I spent a little more time on my freeCodeCamp weather app and then watched and followed along with the with 5 videos of "What the Flexbox" from Wes Bos.
+
+**Thoughts:** 
+* The things I have learnt from "What the Flexbox" will be very useful for styling my weather app. I still need to figure out how to get the weather app to pull the latitude and longitude from a mobile device...
+
+**Link to work:** 
+* ["What the Flexbox" testing area] (http://codepen.io/tomlittlechild/full/egjadg ""What the Flexbox" testing area")
