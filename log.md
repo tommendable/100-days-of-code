@@ -383,3 +383,14 @@
 
 **Link to work:** 
 * ["What the Flexbox" testing area] (http://codepen.io/tomlittlechild/full/egjadg ""What the Flexbox" testing area")
+
+### Day 33: 8th February, 2017
+
+**Today's Progress**:
+* Today I finished off my freeCodeCamp weather app, it's not perfect but it does work. 
+
+**Thoughts:** 
+* I spent some time trying to get it to look nice but I feel it could definitely look better and be more responsive when viewed on a mobile device. These are things I definitely need to practice. I also haven't yet got it work on mobile, perhaps I will revisit at some point.
+
+**Link to work:** 
+* [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj/ "freecodecamp weather app")
