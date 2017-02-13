@@ -394,3 +394,14 @@
 
 **Link to work:** 
 * [freecodecamp weather app] (http://codepen.io/tomlittlechild/full/RKMqpj/ "freecodecamp weather app")
+
+### Day 34: 13th February, 2017
+
+**Today's Progress**:
+* Today I worked on setting up a local server with Node.JS for the Javascript30 Webcam fun exercise. 
+
+**Thoughts:** 
+* I spent the weekend down South and didn't get any coding done, it's nice to be back on track.
+
+**Link to work:** 
+* [Javascript30 Webcam fun exercise] (http://localhost:3000/ "Javascript30 Webcam fun exercise")
