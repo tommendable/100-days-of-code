@@ -405,3 +405,14 @@
 
 **Link to work:** 
 * [Javascript30 Webcam fun exercise] (http://localhost:3000/ "Javascript30 Webcam fun exercise")
+
+### Day 35: 15th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 Webcam fun exercise. 
+
+**Thoughts:** 
+* The Webcam excersize was very interesting, now I know that each pixel of the webcam input is given a red, green, blue and alpha value and that I can edit that Input. This could make for some interesting 'filters' for photos / video.
+
+**Link to work:** 
+* [Javascript30 Webcam fun exercise] (http://localhost:3000/ "Javascript30 Webcam fun exercise")
