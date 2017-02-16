@@ -420,10 +420,10 @@
 ### Day 36: 16th February, 2017
 
 **Today's Progress**:
-* Today I finished the Javascript30 Speech Recognition exercise. I also did some more of the "what the flexbox" videos from Wes Bos.
+* Today I finished the Javascript30 speech recognition exercise. 
 
 **Thoughts:** 
-* The Javascript30 course is teaching me some really interesting ways to use javascript but I think I should probably be focusing on my freecodecamp front end projects. Having said that, I am pretty sure that FCC is going to be updating the curriculum very soon so I am not sure how that will affect everything I have made so far...
+* The javascript30 exercises are fun and are definitely teaching me a lot of the ways that javascript can be used but I do feel like I should be focusing on the freecodecamp front end projects. However, the speech recognition does make me think it could be quite fun to make a javascript game where you use your voice to turn or jump etc.
 
 **Link to work:** 
-* [Javascript30 Speech Recognition exercise] (http://localhost:3000/ "Javascript30 Speech Recognition exercise")
+* [Javascript30 speech recognition exercise] (http://localhost:3000/ "Javascript30 speech recognition exercise")
