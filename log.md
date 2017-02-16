@@ -416,3 +416,14 @@
 
 **Link to work:** 
 * [Javascript30 Webcam fun exercise] (http://localhost:3000/ "Javascript30 Webcam fun exercise")
+
+### Day 36: 16th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 Speech Recognition exercise. I also did some more of the "what the flexbox" videos from Wes Bos.
+
+**Thoughts:** 
+* The Javascript30 course is teaching me some really interesting ways to use javascript but I think I should probably be focusing on my freecodecamp front end projects. Having said that, I am pretty sure that FCC is going to be updating the curriculum very soon so I am not sure how that will affect everything I have made so far...
+
+**Link to work:** 
+* [Javascript30 Speech Recognition exercise] (http://localhost:3000/ "Javascript30 Speech Recognition exercise")
