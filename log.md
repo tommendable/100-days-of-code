@@ -416,3 +416,14 @@
 
 **Link to work:** 
 * [Javascript30 Webcam fun exercise] (http://localhost:3000/ "Javascript30 Webcam fun exercise")
+
+### Day 36: 16th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 speech recognition exercise. 
+
+**Thoughts:** 
+* The javascript30 exercises are fun and are definitely teaching me a lot of the ways that javascript can be used but I do feel like I should be focusing on the freecodecamp front end projects. However, the speech recognition does make me think it could be quite fun to make a javascript game where you use your voice to turn or jump etc.
+
+**Link to work:** 
+* [Javascript30 speech recognition exercise] (http://localhost:3000/ "Javascript30 speech recognition exercise")
