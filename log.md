@@ -427,3 +427,14 @@
 
 **Link to work:** 
 * [Javascript30 speech recognition exercise] (http://localhost:3000/ "Javascript30 speech recognition exercise")
+
+### Day 37: 17th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 Follow Along Links exercise. 
+
+**Thoughts:** 
+* I also watched the Javascript30 video on using geolocation and speed from a phone (or tablet) for a simple compass app, I wasn't able to practice with it though as I don't yet have a way to simulate iOS or Android devices from my phone.
+
+**Link to work:** 
+* [Javascript30 Follow Along Links exercise] (http://codepen.io/tomlittlechild/full/YNbYGe/ "Javascript30 Follow Along Links exercise")
