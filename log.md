@@ -438,3 +438,14 @@
 
 **Link to work:** 
 * [Javascript30 Follow Along Links exercise] (http://codepen.io/tomlittlechild/full/YNbYGe/ "Javascript30 Follow Along Links exercise")
+
+### Day 38: 18th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 Speech Synthesis exercise. 
+
+**Thoughts:** 
+* I think I'll just focus on getting the remaining javascript30 exercises done right now and out of the way and then go back to freecodecamp front end projects.
+
+**Link to work:** 
+* [Javascript30 Speech Synthesis exercise] (http://codepen.io/tomlittlechild/full/VPOoyQ "Javascript30 Speech Synthesis exercise")
