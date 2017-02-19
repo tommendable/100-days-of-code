@@ -449,3 +449,14 @@
 
 **Link to work:** 
 * [Javascript30 Speech Synthesis exercise] (http://codepen.io/tomlittlechild/full/VPOoyQ "Javascript30 Speech Synthesis exercise")
+
+### Day 39: 19th February, 2017
+
+**Today's Progress**:
+* Today I finished the Javascript30 Sticky Nav exercise. 
+
+**Thoughts:** 
+* I can use this sort of styling to make my personal projects and freecodecamp front end projects feel more dynamic.
+
+**Link to work:** 
+* [Javascript30 Sticky Nav exercise] (http://codepen.io/tomlittlechild/full/QdXwxL/ "Javascript30 Sticky Nav exercise")
