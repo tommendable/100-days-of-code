@@ -6,11 +6,11 @@
 * Today I finished the Javascript30 Event Capture exercise and the Stripe follow along dropdown exercise.
 
 **Thoughts:** 
-* .
+* Not many javascript30 exercises left now, I do think I am learning a lot from them but still feel with each one that I wouldn't know where to start on my own without Wes' prompts.
 
 **Link to work:** 
-* [Javascript30 Event Capture exercise] ( "Javascript30 Event Capture Exercise")
-* [Javascript30 Stripe follow along dropdown exercise] ( "Javascript30 Stripe follow along dropdown Exercise")
+* [Javascript30 Event Capture exercise] (http://codepen.io/tomlittlechild/full/oBreap "Javascript30 Event Capture Exercise")
+* [Javascript30 Stripe follow along dropdown exercise] (http://codepen.io/tomlittlechild/full/ggNGYE "Javascript30 Stripe follow along dropdown Exercise")
 
 
 ### Day 39: 19th February, 2017
