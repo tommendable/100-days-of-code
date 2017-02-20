@@ -3,13 +3,15 @@
 ### Day 40: 20th February, 2017
 
 **Today's Progress**:
-* Today I finished the Javascript30 Event Capture exercise. 
+* Today I finished the Javascript30 Event Capture exercise and the Stripe follow along dropdown exercise.
 
 **Thoughts:** 
 * .
 
 **Link to work:** 
-* [Javascript30 Event Capture exercise] (http://codepen.io/tomlittlechild/full/QdXwxL/ "Javascript30 Event Capture Exercise")
+* [Javascript30 Event Capture exercise] ( "Javascript30 Event Capture Exercise")
+* [Javascript30 Stripe follow along dropdown exercise] ( "Javascript30 Stripe follow along dropdown Exercise")
+
 
 ### Day 39: 19th February, 2017
 
