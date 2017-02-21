@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 41: 21st February, 2017
+
+**Today's Progress**:
+* I finished the Javascript30 Click and Drag to scroll Exercise
+* I also finished the Javascript30 video speed controll UI Exercise
+
+**Thoughts:** 
+* I had an idea for a simple goal setting app today, basically you can create goals and split into sub tasks / stretch goals etc. for a monthly / yearly tracker. Kind of WoW achievements style with highlighted achieves that are 'so close'. I am sure something very like this already exists but I thought maybe I would make it for myself anyway as some practice
+
+**Link to work:** 
+* [Javascript30 Click and Drag to scroll exercise] (http://codepen.io/tomlittlechild/full/apeLjq "Javascript30 Click and Drag to scroll Exercise")
+* [Javascript30 video speed controll UI exercise] (http://codepen.io/tomlittlechild/full/apeLgK "Javascript30 video speed controll UI Exercise")
+
 ### Day 40: 20th February, 2017
 
 **Today's Progress**:
@@ -11,7 +24,6 @@
 **Link to work:** 
 * [Javascript30 Event Capture exercise] (http://codepen.io/tomlittlechild/full/oBreap "Javascript30 Event Capture Exercise")
 * [Javascript30 Stripe follow along dropdown exercise] (http://codepen.io/tomlittlechild/full/ggNGYE "Javascript30 Stripe follow along dropdown Exercise")
-
 
 ### Day 39: 19th February, 2017
 
