@@ -4,7 +4,7 @@
 
 **Today's Progress**:
 * I finished the Javascript30 Click and Drag to scroll Exercise
-* I also finished the Javascript30 video speed controll UI Exercise
+* I also finished the Javascript30 video speed control UI Exercise
 
 **Thoughts:** 
 * I had an idea for a simple goal setting app today, basically you can create goals and split into sub tasks / stretch goals etc. for a monthly / yearly tracker. Kind of WoW achievements style with highlighted achieves that are 'so close'. I am sure something very like this already exists but I thought maybe I would make it for myself anyway as some practice
