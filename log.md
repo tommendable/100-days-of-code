@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 42: 22nd February, 2017
+
+**Today's Progress**:
+* I finished the Javascript30 Countdown Clock Exercise
+
+**Thoughts:** 
+* This exercise will be very useful reference material when it comes to doing the pomodoro timer project in freeCodeCamp.
+
+**Link to work:** 
+* [Javascript30 Countdown Clock exercise] (http://codepen.io/tomlittlechild/full/zZOKQr/ "Javascript30 Countdown Clock Exercise")
+
 ### Day 41: 21st February, 2017
 
 **Today's Progress**:
