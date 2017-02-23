@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 43: 23rd February, 2017
+
+**Today's Progress**:
+* I finished the Javascript30 Whack-a-mole game Exercise
+
+**Thoughts:** 
+* Thats all the Javascript30 exercises done! I should now focus on finishing up the freecodecamp front end projects using what I have learnt from Javascript30.
+
+**Link to work:** 
+* [Javascript30 Whack-a-mole game exercise] (http://codepen.io/tomlittlechild/full/zZOojz "Javascript30 Whack-a-mole game Exercise")
+
 ### Day 42: 22nd February, 2017
 
 **Today's Progress**:
