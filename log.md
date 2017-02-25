@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 44: 25th February, 2017
+
+**Today's Progress**:
+* I worked on the freeCodeCamp Wikipedia Viewer
+
+**Thoughts:** 
+* I got stuck with the API request, my XMLHttpRequest refused to work or would work unreliably. I'm not sure if it was just an imposed restriction on the number of requests allowed in short succession or some other reason... I needs to look more at CORS and how to make api requests.
+
+**Link to work:** 
+* [freeCodeCamp Wikipedia Viewer] (https://codepen.io/tomlittlechild/full/oZgBVJ/ "freeCodeCamp Wikipedia Viewer")
+
 ### Day 43: 23rd February, 2017
 
 **Today's Progress**:
