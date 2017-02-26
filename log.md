@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 45: 26th February, 2017
+
+**Today's Progress**:
+* Followed along with videos 7 to 9 of What the flexbox on aligning and centering items / content.
+
+**Thoughts:** 
+* I didn't get much time to code today, also about to go on holiday to New Zealand on Friday for 10 days so I am not sure how much coding I am going to be able to do while I am away...
+
+**Link to work:** 
+* [What the flexbox] (http://codepen.io/tomlittlechild/full/egjadg "What the flexbox")
+
 ### Day 44: 25th February, 2017
 
 **Today's Progress**:
